@@ -1,0 +1,9 @@
+understanding how the website works basically:-
+
+1.client -> 2.browser(chrome) -> 3.server #ideal response code is 200
+
+#backend:-
+the backend is the server side of the website
+it stores and arranges data and also makes sure everything on the client side works fine.
+it is part of the website that you cannot see and interact with.
+it is the portion of software that does not come in direct contact with the users.
